@@ -1,0 +1,50 @@
+body{
+    background-color: #212529;
+    font-family: "Poppins", sans-serif;
+}
+.sidebar-new{
+    height: 100vh;
+    border-right: 1px solid #C3C3C3;
+}
+h4{
+    padding: 20px 0 3px 10px;;
+    color: #51AA84;
+}
+ul{
+    padding: 5px;
+}
+li{
+    list-style: none;
+    padding: 12px;
+    
+}
+li:hover, li:active{
+    background-color: #141B1D;
+    border-radius: 10px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a i{
+   font-size: 16px;
+   padding-right: 5px;
+}
+.card{
+    color: white;
+    background-color: #212529;
+    border-radius: 8px;
+    border-color: #C3C3C3;
+}
+.header{
+    font-size: 24px;
+}
+
+.col-5 i{
+    color: #51AA84;
+    font-size: 45px;
+}
+.btn-success{
+    background-color: #51AA84;
+    border-color: #51AA84;
+}
